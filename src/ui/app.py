@@ -38,6 +38,23 @@ st.set_page_config(
 )
 
 # ==========================================
+# API Key Configuration Sidebar
+# ==========================================
+st.sidebar.title("⚙️ Configuration")
+st.sidebar.markdown("Enter your Groq API Key below to activate the chatbot.")
+api_key_input = st.sidebar.text_input("Groq API Key", type="password", placeholder="gsk_...")
+
+# Determine the final API key
+system_key = os.getenv("GROQ_API_KEY")
+try:
+    if not system_key:
+        system_key = st.secrets.get("GROQ_API_KEY")
+except Exception:
+    pass
+
+final_api_key = api_key_input.strip() if api_key_input else system_key
+
+# ==========================================
 # Application State
 # ==========================================
 # Initialize chat history
@@ -46,9 +63,9 @@ if "messages" not in st.session_state:
 
 # Initialize RAG chain (cached to avoid reloading models on every interaction)
 @st.cache_resource(show_spinner="Initializing AI Models...")
-def load_chain():
+def load_chain(key):
     try:
-        return get_rag_chain()
+        return get_rag_chain(api_key=key)
     except ValueError as e:
         st.error(f"Configuration Error: {e}")
         st.stop()
@@ -56,7 +73,11 @@ def load_chain():
         st.error(f"Failed to load AI Models: {e}")
         st.stop()
 
-chain = load_chain()
+if not final_api_key:
+    st.warning("⚠️ **Missing API Key**: Please enter your Groq API Key in the left sidebar to continue.")
+    st.stop()
+
+chain = load_chain(final_api_key)
 
 # ==========================================
 # Header & UI Layout

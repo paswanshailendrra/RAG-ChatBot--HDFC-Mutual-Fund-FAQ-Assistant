@@ -54,17 +54,18 @@ RULES AND CONSTRAINTS:
 # 2. RAG Pipeline Initialization
 # ==========================================
 
-def get_rag_chain():
+def get_rag_chain(api_key=None):
     """Initializes and returns the complete RAG chain."""
     
-    # Fetch API Key dynamically at runtime to avoid Streamlit import race conditions
-    api_key = os.getenv("GROQ_API_KEY")
+    # Fetch API Key dynamically
     if not api_key:
-        try:
-            import streamlit as st
-            api_key = st.secrets.get("GROQ_API_KEY")
-        except Exception:
-            pass
+        api_key = os.getenv("GROQ_API_KEY")
+        if not api_key:
+            try:
+                import streamlit as st
+                api_key = st.secrets.get("GROQ_API_KEY")
+            except Exception:
+                pass
             
     if not api_key:
         raise ValueError("GROQ_API_KEY is not set. Please check your .env file or Streamlit secrets.")
