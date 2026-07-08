@@ -57,9 +57,17 @@ RULES AND CONSTRAINTS:
 def get_rag_chain():
     """Initializes and returns the complete RAG chain."""
     
-    # Ensure API Key is available
-    if not GROQ_API_KEY:
-        raise ValueError("GROQ_API_KEY is not set. Please check your .env file.")
+    # Fetch API Key dynamically at runtime to avoid Streamlit import race conditions
+    api_key = os.getenv("GROQ_API_KEY")
+    if not api_key:
+        try:
+            import streamlit as st
+            api_key = st.secrets.get("GROQ_API_KEY")
+        except Exception:
+            pass
+            
+    if not api_key:
+        raise ValueError("GROQ_API_KEY is not set. Please check your .env file or Streamlit secrets.")
 
     # 1. Setup Retriever
     print("🔄 Initializing Embedding Model & Retriever...")
@@ -83,7 +91,7 @@ def get_rag_chain():
     # 2. Setup LLM
     print(f"🧠 Initializing LLM ({GROQ_MODEL})...")
     llm = ChatGroq(
-        groq_api_key=GROQ_API_KEY,
+        groq_api_key=api_key,
         model_name=GROQ_MODEL,
         temperature=0.0,  # Zero temperature for strictly factual responses
         max_tokens=256,
