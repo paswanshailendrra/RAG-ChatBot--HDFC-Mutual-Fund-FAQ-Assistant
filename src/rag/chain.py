@@ -19,7 +19,6 @@ from langchain_groq import ChatGroq
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
-from langchain.retrievers.multi_query import MultiQueryRetriever
 
 import sys
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..'))
@@ -97,13 +96,6 @@ def get_rag_chain(api_key=None):
         max_tokens=256,
         max_retries=3  # Exponential backoff for Groq rate limits
     )
-    
-    # Wrap with MultiQueryRetriever to solve the "mid and large cap" bias issue
-    print("🔍 Setting up MultiQueryRetriever...")
-    retriever = MultiQueryRetriever.from_llm(
-        retriever=base_retriever, 
-        llm=llm
-    )
 
     # 3. Setup Prompt
     prompt = ChatPromptTemplate.from_messages([
@@ -131,7 +123,7 @@ def get_rag_chain(api_key=None):
     
     # We inject the current date into the prompt dynamically during invocation
     chain = (
-        {"context": retriever | format_docs, "question": RunnablePassthrough(), "date": lambda _: datetime.now().strftime("%Y-%m-%d")}
+        {"context": base_retriever | format_docs, "question": RunnablePassthrough(), "date": lambda _: datetime.now().strftime("%Y-%m-%d")}
         | prompt
         | llm
         | StrOutputParser()
