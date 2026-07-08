@@ -19,6 +19,7 @@ from langchain_groq import ChatGroq
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
+from langchain.retrievers.multi_query import MultiQueryRetriever
 
 import sys
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..'))
@@ -79,8 +80,6 @@ def get_rag_chain(api_key=None):
         query_instruction="Represent this sentence for searching relevant passages: "
     )
 
-    from langchain.retrievers.multi_query import MultiQueryRetriever
-    
     vectorstore = Chroma(
         collection_name=CHROMA_COLLECTION_NAME,
         embedding_function=embeddings,
