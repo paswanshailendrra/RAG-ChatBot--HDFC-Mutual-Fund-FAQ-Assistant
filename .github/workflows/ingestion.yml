@@ -1,6 +1,9 @@
 name: Daily Automated Data Ingestion
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     # Runs at 00:00 UTC every day (approx 5:30 AM IST)
     - cron: '0 0 * * *'
