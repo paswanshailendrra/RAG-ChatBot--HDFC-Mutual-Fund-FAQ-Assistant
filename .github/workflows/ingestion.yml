@@ -1,0 +1,82 @@
+name: Daily Automated Data Ingestion
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every day (approx 5:30 AM IST)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual trigger from the Actions tab
+
+jobs:
+  ingest-and-update:
+    runs-on: ubuntu-latest
+    
+    # Needs write permissions to push the updated data back to the repo
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0 # Fetch all history so push works properly
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.9'
+        cache: 'pip'
+
+    - name: Cache HuggingFace Models
+      uses: actions/cache@v4
+      with:
+        path: ~/.cache/huggingface
+        key: huggingface-bge-small-en-v1.5
+        # This mitigates HF download rate-limiting and speeds up the workflow.
+
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run Web Scraper & Parser
+      run: python src/scraper/scraper.py
+      # Note: The `requests` library automatically respects HTTP_PROXY env vars.
+      # Uncomment the below lines if you add proxy secrets to GitHub to bypass WAF blocks.
+      # env:
+      #   HTTP_PROXY: ${{ secrets.HTTP_PROXY }}
+      #   HTTPS_PROXY: ${{ secrets.HTTPS_PROXY }}
+      
+    - name: Run Chunker
+      run: python src/scraper/chunker.py
+      
+    - name: Check for Data Changes
+      id: check_changes
+      run: |
+        # Check if the parsed chunks actually changed
+        if git diff --quiet data/chunks.json; then
+          echo "No changes in source data. Skipping DB rebuild to prevent empty commits and binary bloat."
+          echo "has_changes=false" >> $GITHUB_OUTPUT
+        else
+          echo "Data changed. Proceeding to rebuild Vector DB."
+          echo "has_changes=true" >> $GITHUB_OUTPUT
+        fi
+
+    - name: Rebuild Vector Database
+      if: steps.check_changes.outputs.has_changes == 'true'
+      run: |
+        # Remove old chroma db completely to avoid duplicate overlapping data
+        rm -rf chroma_db
+        python src/embeddings/vector_store.py
+        
+    - name: Commit and Push Changes
+      if: steps.check_changes.outputs.has_changes == 'true'
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        
+        # Add the data directory and chroma_db
+        git add data/
+        git add chroma_db/
+        
+        git commit -m "chore(data): Automated daily ingestion update"
+        git push

@@ -1,0 +1,221 @@
+Source URL: https://groww.in/mutual-funds/hdfc-dividend-yield-fund-direct-growth
+Scheme Name: HDFC Dividend Yield Fund Direct Growth
+Scraped At: 2026-07-04T21:56:17.765300
+============================================================
+
+--- Block 1 ---
+Returns: +14.89 % 3Y annualised +0.36 % 1D
+
+--- Block 2 ---
+Fund Details:
+NAV: 03 Jul '26: ₹26.74
+Min. for SIP: ₹100
+Fund size (AUM): ₹5,610.79 Cr
+Expense ratio: 0.85%
+Rating: --
+
+--- Block 3 ---
+Return Calculator (SIP):
+Over the past: 6 months | Total investment: ₹30,000 | Would've become: ₹29,779 | Historic returns:  | Returns: -0.74%
+Over the past: 1 year | Total investment: ₹60,000 | Would've become: ₹59,166 | Historic returns:  | Returns: -1.39%
+Over the past: 3 years | Total investment: ₹1,80,000 | Would've become: ₹1,95,733 | Historic returns:  | Returns: +8.74%
+Over the past: 5 years | Total investment: ₹3,00,000 | Would've become: ₹4,08,760 | Historic returns:  | Returns: +36.25%
+
+--- Block 4 ---
+Return calculator
+Monthly SIPOne timeMonthly investment₹5,000Over the pastTotal investmentWould've becomeHistoric returnsReturns6 months₹30,000₹29,779-0.74%1 year₹60,000₹59,166-1.39%3 years₹1,80,000₹1,95,733+8.74%5 years₹3,00,000₹4,08,760+36.25%
+
+--- Block 5 ---
+Holdings (132)
++14.89%3Y annualised+0.36%1D
+1M6M1Y3Y5YAll
+NAV: 03 Jul '26₹26.74Min. for SIP₹100Fund size (AUM)₹5,610.79 CrExpense ratio0.85%Rating--
+Return calculatorMonthly SIPOne timeMonthly investment₹5,000Over the pastTotal investmentWould've becomeHistoric returnsReturns6 months₹30,000₹29,779-0.74%1 year₹60,000₹59,166-1.39%3 years₹1,80,000₹1,95,733+8.74%5 years₹3,00,000₹4,08,760+36.25%
+Holdings (132)NameSectorInstrumentsAssetsHDFC Bank LtdFinancialEquity5.18%ICICI Bank LtdFinancialEquity4.80%Axis Bank LtdFinancialEquity3.74%Larsen & Toubro LtdIndustrialsEquity2.69%Bharti Airtel LtdTechnologyEquity2.56%Reliance Industries LtdEnergy & UtilitiesEquity2.35%Maruti Suzuki India LtdConsumer DiscretionaryEquity2.27%Kotak Mahindra Bank LtdFinancialEquity2.12%Tech Mahindra LtdTechnologyEquity2.12%Sun Pharmaceutical Industries LtdHealthcareEquity2.02%NTPC LtdEnergy & UtilitiesEquity2.00%Bajaj Auto LtdConsumer DiscretionaryEquity1.96%SBI Life Insurance Company LtdFinancialEquity1.96%State Bank of IndiaFinancialEquity1.89%Sterlite Technologies LtdTechnologyEquity1.82%Infosys LtdTechnologyEquity1.72%HCL Technologies LtdTechnologyEquity1.52%Eicher Motors LtdConsumer DiscretionaryEquity1.48%Tata Steel LtdMaterialsEquity1.48%Indusind Bank LtdFinancialEquity1.47%Tata Consultancy Services LtdTechnologyEquity1.33%Coal India LtdMaterialsEquity1.31%Info Edge (India) LtdTechnologyEquity1.28%Aster DM Healthcare LtdHealthcareEquity1.24%ITC LtdConsumer StaplesEquity1.18%Cipla LtdHealthcareEquity1.09%Hindustan Unilever LtdConsumer StaplesEquity1.09%Oil & Natural Gas Corporation LtdEnergy & UtilitiesEquity1.09%Ambuja Cements LtdMaterialsEquity1.04%Hindustan Petroleum Corporation LtdEnergy & UtilitiesEquity1.02%Cummins India LtdIndustrialsEquity0.99%Apollo Hospitals Enterprise LtdHealthcareEquity0.98%CESC LtdEnergy & UtilitiesEquity0.97%Balrampur Chini Mills LtdConsumer StaplesEquity0.92%Power Finance Corporation LtdFinancialEquity0.92%PVR LtdConsumer DiscretionaryEquity0.91%UPL LtdMaterialsEquity0.87%Nestle India LtdConsumer StaplesEquity0.81%Cholamandalam Financial Holdings LtdFinancialEquity0.80%Embassy Office Parks REITReal EstateReal Estate Investment Trusts0.77%Hindustan Aeronautics LtdIndustrialsEquity0.73%TD Power Systems LtdIndustrialsEquity0.73%AIA Engineering LtdIndustrialsEquity0.72%Tata Communications LtdTechnologyEquity0.70%Siemens LtdDiversifiedEquity0.69%RHI Magnesita India LtdMaterialsEquity0.69%Siemens Energy India LtdEnergy & UtilitiesEquity0.69%Bharat Electronics LtdIndustrialsEquity0.66%Wipro LtdTechnologyEquity0.66%Glenmark Pharmaceuticals LtdHealthcareEquity0.63%Vardhman Textiles LtdConsumer DiscretionaryEquity0.63%HDFC Life Insurance Co LtdFinancialEquity0.63%Fusion Micro Finance LtdFinancialEquity0.63%Finolex Cables LtdIndustrialsEquity0.61%RBL Bank LtdFinancialEquity0.61%REC LtdFinancialEquity0.60%BEML Land Assets Ltd.Real EstateEquity0.60%GAIL (India) LtdEnergy & UtilitiesEquity0.59%PNB Housing Finance LtdFinancialEquity0.59%Apollo Tyres LtdConsumer DiscretionaryEquity0.56%Biocon LtdHealthcareEquity0.56%VRL Logistics LtdIndustrialsEquity0.56%Blue Dart Express LtdIndustrialsEquity0.55%Godrej Consumer Products LtdConsumer StaplesEquity0.55%NHPC LtdEnergy & UtilitiesEquity0.55%Bosch LtdConsumer DiscretionaryEquity0.52%Bharti Hexacom Ltd.TechnologyEquity0.52%Kaynes Technology India LtdIndustrialsEquity0.50%Bajaj Finserv LtdFinancialEquity0.48%Divi's Laboratories LtdHealthcareEquity0.48%Sagility India Ltd.IndustrialsEquity0.48%Canara BankFinancialEquity0.47%UTI Asset Management Company LtdFinancialEquity0.47%Tata Motors LtdIndustrialsEquity0.47%Indraprastha Gas LtdEnergy & UtilitiesEquity0.46%Asian Paints LtdMaterialsEquity0.45%Tata Motors LtdConsumer DiscretionaryEquity0.42%Cyient LtdTechnologyEquity0.40%Lupin LtdHealthcareEquity0.40%Gland Pharma LtdHealthcareEquity0.40%Whirlpool Of India LtdConsumer DiscretionaryEquity0.39%Mahindra & Mahindra LtdConsumer DiscretionaryEquity0.38%Dilip Buildcon LtdIndustrialsEquity0.38%Interglobe Aviation LtdIndustrialsEquity0.37%Emami LtdConsumer StaplesEquity0.36%SKF India (Industrial) LtdIndustrialsEquity0.36%Mahindra Holidays & Resorts India LtdConsumer DiscretionaryEquity0.35%Medi Assist Healthcare Services Ltd.IndustrialsEquity0.33%GHCL LtdMaterialsEquity0.30%Emcure Pharmaceuticals Ltd.HealthcareEquity0.30%PNC Infratech LtdIndustrialsEquity0.29%KEC International LtdDiversifiedEquity0.27%SKF India LtdIndustrialsEquity0.27%Star Health & Allied Insurance Co. LtdFinancialEquity0.27%STL Networks LtdTechnologyEquity0.27%Anthem Biosciences Ltd.HealthcareEquity0.25%Bharat Highways InvITIndustrialsInfrastructure Investment Trust0.23%Endurance Technologies LtdConsumer DiscretionaryEquity0.22%Diffusion Engineers Ltd.IndustrialsEquity0.21%Castrol India LtdMaterialsEquity0.20%INOX INDIA LIMITED EQEnergy & UtilitiesEquity0.19%West Coast Paper Mills LtdMaterialsEquity0.18%RepoUnspecifiedRepo0.18%Gujarat Pipavav Port LtdIndustrialsEquity0.17%Voltamp Transformers LtdIndustrialsEquity0.17%Electronics Mart India LtdConsumer DiscretionaryEquity0.17%AFCONS INFRASTRUCTURE LIMITED EQIndustrialsEquity0.16%Chambal Fertilisers & Chemicals LtdMaterialsEquity0.15%Quess Corp LtdIndustrialsEquity0.15%DCX Systems LtdIndustrialsEquity0.15%Birlasoft LtdTechnologyEquity0.14%Sun TV Network LtdConsumer DiscretionaryEquity0.14%Techno Electric & Engineering Company LtdIndustrialsEquity0.14%Go Fashion (India) LtdConsumer DiscretionaryEquity0.14%EPACK Durable Ltd.Consumer DiscretionaryEquity0.14%Popular Vehicles And Services Ltd.Consumer DiscretionaryEquity0.14%Jio Financial Services LimitedFinancialEquity0.13%Rishabh Instruments Ltd.IndustrialsEquity0.13%DAM Capital Advisors Ltd.FinancialEquity0.13%BEML LtdIndustrialsEquity0.12%Timken India LtdIndustrialsEquity0.11%Stanley Lifestyles Ltd.Consumer DiscretionaryEquity0.11%Sai Silks (Kalamandir) Ltd.Consumer DiscretionaryEquity0.09%GHCL Textiles Ltd.Consumer DiscretionaryEquity0.07%ITC Hotels LtdConsumer DiscretionaryEquity0.06%Bluspring Enterprises LtdIndustrialsEquity0.06%Digitide Solutions LtdIndustrialsEquity0.06%Sonata Software LtdTechnologyEquity0.04%LatentView Analytics LtdTechnologyEquity0.03%Kwality Walls India LtdConsumer StaplesEquity0.01%NLC India LtdEnergy & UtilitiesEquity0.00%Net PayablesUnspecifiedNet Payables-0.06%See All
+Minimum investmentsMin. for 1st investment₹100Min. for 2nd investment₹100Min. for SIP₹100
+Understand termsAnnualised returnsAverage of the yearly returns of a mutual fund over a given period.Absolute returnsThe total return of a mutual fund over a given period.Returns and rankingsAnnualised returnsAbsolute returnsName1Y3Y5YAllFund returns-0.5%+14.9%+16.6%+19.4%Category average (Equity Thematic)+4.3%+19.6%+19.4%--Rank (Equity Thematic)753--
+Understand termsExpense ratioA fee payable to a mutual fund house for managing your mutual fund investments.     It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.TaxA percentage of your capital gains payable to the government upon exiting your mutual fund investments.     Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund.Exit loadA fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment.Stamp dutyA form of tax payable for the purchase or sale of an asset or security.Exit Load27 Nov 2020Exit load of 1% if redeemed within 1 year.Exit load, stamp duty and taxExit loadExit load of 1% if redeemed within 1 year.Stamp duty on investment:0.005% (from July 1st, 2020)from July 1st 2020Tax implicationIf you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.Check past data
+Fund managementPRPriya RanjanMay 2022- PresentView detailsEducationMr. Ranjan is B.E(Computer Science) and PGDBM (Finance).ExperienceHe has over 14 years of experience in equity research.Also manages these schemesHDFC Gilt Fund Direct GrowthHDFC Dividend Yield Fund Direct GrowthHDFC Defence Fund Direct GrowthHDFC Transportation and Logistics Fund Direct GrowthGAGopal AgrawalNov 2020- PresentView detailsEducationMr.Agrawal is a  B.E and MBM.ExperiencePrior to joining HDFC Mutual Fund he has worked with DSP Mutual Fund, Tata AMC, Mirae Asset Mutual Fund ,SBI Mutual Fund, Kotak Securities, HDFC Securities, IDBI Capital, UTI Securities and IPCL.Also manages these schemesHDFC Value Fund Direct Plan GrowthHDFC Balanced Advantage Fund Direct GrowthHDFC Large and Mid Cap Fund Direct GrowthHDFC Dividend Yield Fund Direct Growth
+AboutHDFC Dividend Yield Fund Direct GrowthHDFC Dividend Yield Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Priya Ranjan is the Current Fund Manager of HDFC Dividend Yield Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,238 Cr and the Latest NAV as of 03 Jul 2026 is ₹26.74.
+The HDFC Dividend Yield Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year.;Investment ObjectiveThe scheme seeks to provide capital appreciation and/or dividend distribution by predominantly investing in a well-diversified portfolio of equity and equity related instruments of dividend yielding companies.Fund benchmarkNIFTY 500 Total Return IndexScheme Information Document(SID)
+Fund houseHDFC Mutual FundRank (total assets)#2 in IndiaTotal AUM₹9,34,237.77 CrDate of Incorporation10 Dec 1999Phone022 – 66316333E-mail[email protected]Websitehttp://www.hdfcfund.comLaunch Date10 Dec 1999Address"HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020Custodian--Registrar & Transfer AgentCamsEmail[email protected]Websitewww.camsonline.comAddress7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
+
+--- Block 6 ---
+Minimum investments
+Min. for 1st investment₹100Min. for 2nd investment₹100Min. for SIP₹100
+
+--- Block 7 ---
+Understand terms
+Annualised returnsAverage of the yearly returns of a mutual fund over a given period.Absolute returnsThe total return of a mutual fund over a given period.
+
+--- Block 8 ---
+Exit load
+Exit load of 1% if redeemed within 1 year.
+
+--- Block 9 ---
+Stamp duty on investment:0.005% (from July 1st, 2020)
+from July 1st 2020
+
+--- Block 10 ---
+Tax implication
+If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+
+--- Block 11 ---
+Fund management
+PRPriya RanjanMay 2022- PresentView detailsEducationMr. Ranjan is B.E(Computer Science) and PGDBM (Finance).ExperienceHe has over 14 years of experience in equity research.Also manages these schemesHDFC Gilt Fund Direct GrowthHDFC Dividend Yield Fund Direct GrowthHDFC Defence Fund Direct GrowthHDFC Transportation and Logistics Fund Direct GrowthGAGopal AgrawalNov 2020- PresentView detailsEducationMr.Agrawal is a  B.E and MBM.ExperiencePrior to joining HDFC Mutual Fund he has worked with DSP Mutual Fund, Tata AMC, Mirae Asset Mutual Fund ,SBI Mutual Fund, Kotak Securities, HDFC Securities, IDBI Capital, UTI Securities and IPCL.Also manages these schemesHDFC Value Fund Direct Plan GrowthHDFC Balanced Advantage Fund Direct GrowthHDFC Large and Mid Cap Fund Direct GrowthHDFC Dividend Yield Fund Direct Growth
+
+--- Block 12 ---
+Investment Objective
+The scheme seeks to provide capital appreciation and/or dividend distribution by predominantly investing in a well-diversified portfolio of equity and equity related instruments of dividend yielding companies.
+
+--- Block 13 ---
+Table Data:
+Over the past | Total investment | Would've become | Historic returns | Returns
+6 months | ₹30,000 | ₹29,779 |  | -0.74%
+1 year | ₹60,000 | ₹59,166 |  | -1.39%
+3 years | ₹1,80,000 | ₹1,95,733 |  | +8.74%
+5 years | ₹3,00,000 | ₹4,08,760 |  | +36.25%
+
+--- Block 14 ---
+Table Data:
+Name | Sector | Instruments | Assets
+HDFC Bank Ltd | Financial | Equity | 5.18%
+ICICI Bank Ltd | Financial | Equity | 4.80%
+Axis Bank Ltd | Financial | Equity | 3.74%
+Larsen & Toubro Ltd | Industrials | Equity | 2.69%
+Bharti Airtel Ltd | Technology | Equity | 2.56%
+Reliance Industries Ltd | Energy & Utilities | Equity | 2.35%
+Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 2.27%
+Kotak Mahindra Bank Ltd | Financial | Equity | 2.12%
+Tech Mahindra Ltd | Technology | Equity | 2.12%
+Sun Pharmaceutical Industries Ltd | Healthcare | Equity | 2.02%
+NTPC Ltd | Energy & Utilities | Equity | 2.00%
+Bajaj Auto Ltd | Consumer Discretionary | Equity | 1.96%
+SBI Life Insurance Company Ltd | Financial | Equity | 1.96%
+State Bank of India | Financial | Equity | 1.89%
+Sterlite Technologies Ltd | Technology | Equity | 1.82%
+Infosys Ltd | Technology | Equity | 1.72%
+HCL Technologies Ltd | Technology | Equity | 1.52%
+Eicher Motors Ltd | Consumer Discretionary | Equity | 1.48%
+Tata Steel Ltd | Materials | Equity | 1.48%
+Indusind Bank Ltd | Financial | Equity | 1.47%
+Tata Consultancy Services Ltd | Technology | Equity | 1.33%
+Coal India Ltd | Materials | Equity | 1.31%
+Info Edge (India) Ltd | Technology | Equity | 1.28%
+Aster DM Healthcare Ltd | Healthcare | Equity | 1.24%
+ITC Ltd | Consumer Staples | Equity | 1.18%
+Cipla Ltd | Healthcare | Equity | 1.09%
+Hindustan Unilever Ltd | Consumer Staples | Equity | 1.09%
+Oil & Natural Gas Corporation Ltd | Energy & Utilities | Equity | 1.09%
+Ambuja Cements Ltd | Materials | Equity | 1.04%
+Hindustan Petroleum Corporation Ltd | Energy & Utilities | Equity | 1.02%
+Cummins India Ltd | Industrials | Equity | 0.99%
+Apollo Hospitals Enterprise Ltd | Healthcare | Equity | 0.98%
+CESC Ltd | Energy & Utilities | Equity | 0.97%
+Balrampur Chini Mills Ltd | Consumer Staples | Equity | 0.92%
+Power Finance Corporation Ltd | Financial | Equity | 0.92%
+PVR Ltd | Consumer Discretionary | Equity | 0.91%
+UPL Ltd | Materials | Equity | 0.87%
+Nestle India Ltd | Consumer Staples | Equity | 0.81%
+Cholamandalam Financial Holdings Ltd | Financial | Equity | 0.80%
+Embassy Office Parks REIT | Real Estate | Real Estate Investment Trusts | 0.77%
+Hindustan Aeronautics Ltd | Industrials | Equity | 0.73%
+TD Power Systems Ltd | Industrials | Equity | 0.73%
+AIA Engineering Ltd | Industrials | Equity | 0.72%
+Tata Communications Ltd | Technology | Equity | 0.70%
+Siemens Ltd | Diversified | Equity | 0.69%
+RHI Magnesita India Ltd | Materials | Equity | 0.69%
+Siemens Energy India Ltd | Energy & Utilities | Equity | 0.69%
+Bharat Electronics Ltd | Industrials | Equity | 0.66%
+Wipro Ltd | Technology | Equity | 0.66%
+Glenmark Pharmaceuticals Ltd | Healthcare | Equity | 0.63%
+Vardhman Textiles Ltd | Consumer Discretionary | Equity | 0.63%
+HDFC Life Insurance Co Ltd | Financial | Equity | 0.63%
+Fusion Micro Finance Ltd | Financial | Equity | 0.63%
+Finolex Cables Ltd | Industrials | Equity | 0.61%
+RBL Bank Ltd | Financial | Equity | 0.61%
+REC Ltd | Financial | Equity | 0.60%
+BEML Land Assets Ltd. | Real Estate | Equity | 0.60%
+GAIL (India) Ltd | Energy & Utilities | Equity | 0.59%
+PNB Housing Finance Ltd | Financial | Equity | 0.59%
+Apollo Tyres Ltd | Consumer Discretionary | Equity | 0.56%
+Biocon Ltd | Healthcare | Equity | 0.56%
+VRL Logistics Ltd | Industrials | Equity | 0.56%
+Blue Dart Express Ltd | Industrials | Equity | 0.55%
+Godrej Consumer Products Ltd | Consumer Staples | Equity | 0.55%
+NHPC Ltd | Energy & Utilities | Equity | 0.55%
+Bosch Ltd | Consumer Discretionary | Equity | 0.52%
+Bharti Hexacom Ltd. | Technology | Equity | 0.52%
+Kaynes Technology India Ltd | Industrials | Equity | 0.50%
+Bajaj Finserv Ltd | Financial | Equity | 0.48%
+Divi's Laboratories Ltd | Healthcare | Equity | 0.48%
+Sagility India Ltd. | Industrials | Equity | 0.48%
+Canara Bank | Financial | Equity | 0.47%
+UTI Asset Management Company Ltd | Financial | Equity | 0.47%
+Tata Motors Ltd | Industrials | Equity | 0.47%
+Indraprastha Gas Ltd | Energy & Utilities | Equity | 0.46%
+Asian Paints Ltd | Materials | Equity | 0.45%
+Tata Motors Ltd | Consumer Discretionary | Equity | 0.42%
+Cyient Ltd | Technology | Equity | 0.40%
+Lupin Ltd | Healthcare | Equity | 0.40%
+Gland Pharma Ltd | Healthcare | Equity | 0.40%
+Whirlpool Of India Ltd | Consumer Discretionary | Equity | 0.39%
+Mahindra & Mahindra Ltd | Consumer Discretionary | Equity | 0.38%
+Dilip Buildcon Ltd | Industrials | Equity | 0.38%
+Interglobe Aviation Ltd | Industrials | Equity | 0.37%
+Emami Ltd | Consumer Staples | Equity | 0.36%
+SKF India (Industrial) Ltd | Industrials | Equity | 0.36%
+Mahindra Holidays & Resorts India Ltd | Consumer Discretionary | Equity | 0.35%
+Medi Assist Healthcare Services Ltd. | Industrials | Equity | 0.33%
+GHCL Ltd | Materials | Equity | 0.30%
+Emcure Pharmaceuticals Ltd. | Healthcare | Equity | 0.30%
+PNC Infratech Ltd | Industrials | Equity | 0.29%
+KEC International Ltd | Diversified | Equity | 0.27%
+SKF India Ltd | Industrials | Equity | 0.27%
+Star Health & Allied Insurance Co. Ltd | Financial | Equity | 0.27%
+STL Networks Ltd | Technology | Equity | 0.27%
+Anthem Biosciences Ltd. | Healthcare | Equity | 0.25%
+Bharat Highways InvIT | Industrials | Infrastructure Investment Trust | 0.23%
+Endurance Technologies Ltd | Consumer Discretionary | Equity | 0.22%
+Diffusion Engineers Ltd. | Industrials | Equity | 0.21%
+Castrol India Ltd | Materials | Equity | 0.20%
+INOX INDIA LIMITED EQ | Energy & Utilities | Equity | 0.19%
+West Coast Paper Mills Ltd | Materials | Equity | 0.18%
+Repo | Unspecified | Repo | 0.18%
+Gujarat Pipavav Port Ltd | Industrials | Equity | 0.17%
+Voltamp Transformers Ltd | Industrials | Equity | 0.17%
+Electronics Mart India Ltd | Consumer Discretionary | Equity | 0.17%
+AFCONS INFRASTRUCTURE LIMITED EQ | Industrials | Equity | 0.16%
+Chambal Fertilisers & Chemicals Ltd | Materials | Equity | 0.15%
+Quess Corp Ltd | Industrials | Equity | 0.15%
+DCX Systems Ltd | Industrials | Equity | 0.15%
+Birlasoft Ltd | Technology | Equity | 0.14%
+Sun TV Network Ltd | Consumer Discretionary | Equity | 0.14%
+Techno Electric & Engineering Company Ltd | Industrials | Equity | 0.14%
+Go Fashion (India) Ltd | Consumer Discretionary | Equity | 0.14%
+EPACK Durable Ltd. | Consumer Discretionary | Equity | 0.14%
+Popular Vehicles And Services Ltd. | Consumer Discretionary | Equity | 0.14%
+Jio Financial Services Limited | Financial | Equity | 0.13%
+Rishabh Instruments Ltd. | Industrials | Equity | 0.13%
+DAM Capital Advisors Ltd. | Financial | Equity | 0.13%
+BEML Ltd | Industrials | Equity | 0.12%
+Timken India Ltd | Industrials | Equity | 0.11%
+Stanley Lifestyles Ltd. | Consumer Discretionary | Equity | 0.11%
+Sai Silks (Kalamandir) Ltd. | Consumer Discretionary | Equity | 0.09%
+GHCL Textiles Ltd. | Consumer Discretionary | Equity | 0.07%
+ITC Hotels Ltd | Consumer Discretionary | Equity | 0.06%
+Bluspring Enterprises Ltd | Industrials | Equity | 0.06%
+Digitide Solutions Ltd | Industrials | Equity | 0.06%
+Sonata Software Ltd | Technology | Equity | 0.04%
+LatentView Analytics Ltd | Technology | Equity | 0.03%
+Kwality Walls India Ltd | Consumer Staples | Equity | 0.01%
+NLC India Ltd | Energy & Utilities | Equity | 0.00%
+Net Payables | Unspecified | Net Payables | -0.06%
+
+--- Block 15 ---
+Table Data:
+Name | 1Y | 3Y | 5Y | All
+Fund returns | -0.5% | +14.9% | +16.6% | +19.4%
+Category average (Equity Thematic) | +4.3% | +19.6% | +19.4% | --
+Rank (Equity Thematic) | 7 | 5 | 3 | --
+

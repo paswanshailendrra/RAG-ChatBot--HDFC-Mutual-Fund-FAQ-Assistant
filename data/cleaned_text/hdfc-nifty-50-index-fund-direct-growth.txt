@@ -1,0 +1,156 @@
+Source URL: https://groww.in/mutual-funds/hdfc-nifty-50-index-fund-direct-growth
+Scheme Name: HDFC Nifty 50 Index Fund Direct Growth
+Scraped At: 2026-07-04T21:56:17.638771
+============================================================
+
+--- Block 1 ---
+Returns: +8.89 % 3Y annualised +0.43 % 1D
+
+--- Block 2 ---
+Fund Details:
+NAV: 03 Jul '26: ₹237.03
+Min. for SIP: ₹100
+Fund size (AUM): ₹23,154.96 Cr
+Expense ratio: 0.31%
+Rating: 2
+
+--- Block 3 ---
+Return Calculator (SIP):
+Over the past: 1 year | Total investment: ₹60,000 | Would've become: ₹57,310 | Historic returns:  | Returns: -4.48%
+Over the past: 3 years | Total investment: ₹1,80,000 | Would've become: ₹1,87,531 | Historic returns:  | Returns: +4.18%
+Over the past: 5 years | Total investment: ₹3,00,000 | Would've become: ₹3,57,744 | Historic returns:  | Returns: +19.25%
+Over the past: 10 years | Total investment: ₹6,00,000 | Would've become: ₹10,75,753 | Historic returns:  | Returns: +79.29%
+
+--- Block 4 ---
+Return calculator
+Monthly SIPOne timeMonthly investment₹5,000Over the pastTotal investmentWould've becomeHistoric returnsReturns1 year₹60,000₹57,310-4.48%3 years₹1,80,000₹1,87,531+4.18%5 years₹3,00,000₹3,57,744+19.25%10 years₹6,00,000₹10,75,753+79.29%
+
+--- Block 5 ---
+Holdings (52)
++8.89%3Y annualised+0.43%1D
+1M6M1Y3Y5YAll
+NAV: 03 Jul '26₹237.03Min. for SIP₹100Fund size (AUM)₹23,154.96 CrExpense ratio0.31%Rating2
+Return calculatorMonthly SIPOne timeMonthly investment₹5,000Over the pastTotal investmentWould've becomeHistoric returnsReturns1 year₹60,000₹57,310-4.48%3 years₹1,80,000₹1,87,531+4.18%5 years₹3,00,000₹3,57,744+19.25%10 years₹6,00,000₹10,75,753+79.29%
+Holdings (52)NameSectorInstrumentsAssetsHDFC Bank LtdFinancialEquity10.54%ICICI Bank LtdFinancialEquity8.31%Reliance Industries LtdEnergy & UtilitiesEquity8.25%Bharti Airtel LtdTechnologyEquity5.19%Larsen & Toubro LtdIndustrialsEquity4.43%Infosys LtdTechnologyEquity3.76%State Bank of IndiaFinancialEquity3.70%Axis Bank LtdFinancialEquity3.41%Kotak Mahindra Bank LtdFinancialEquity2.62%ITC LtdConsumer StaplesEquity2.56%Mahindra & Mahindra LtdConsumer DiscretionaryEquity2.52%Bajaj Finance LtdFinancialEquity2.25%Tata Consultancy Services LtdTechnologyEquity2.13%Hindustan Unilever LtdConsumer StaplesEquity1.77%Sun Pharmaceutical Industries LtdHealthcareEquity1.76%NTPC LtdEnergy & UtilitiesEquity1.70%Zomato LtdTechnologyEquity1.67%Tata Steel LtdMaterialsEquity1.59%Maruti Suzuki India LtdConsumer DiscretionaryEquity1.59%Titan Company LtdConsumer DiscretionaryEquity1.55%Hindalco Industries LtdMaterialsEquity1.51%Bharat Electronics LtdIndustrialsEquity1.36%Ultratech Cement LtdMaterialsEquity1.26%Adani Ports and Special Economic Zone LtdIndustrialsEquity1.23%Shriram Transport Finance Company LtdFinancialEquity1.23%Power Grid Corporation of India LtdEnergy & UtilitiesEquity1.22%HCL Technologies LtdTechnologyEquity1.16%Asian Paints LtdMaterialsEquity1.12%JSW Steel LtdMaterialsEquity1.11%Grasim Industries LtdMaterialsEquity1.10%Bajaj Auto LtdConsumer DiscretionaryEquity1.07%Coal India LtdMaterialsEquity0.96%Oil & Natural Gas Corporation LtdEnergy & UtilitiesEquity0.95%Bajaj Finserv LtdFinancialEquity0.95%Nestle India LtdConsumer StaplesEquity0.94%Interglobe Aviation LtdIndustrialsEquity0.92%Eicher Motors LtdConsumer DiscretionaryEquity0.91%Trent LtdConsumer DiscretionaryEquity0.87%Tech Mahindra LtdTechnologyEquity0.87%Adani Enterprises LtdMaterialsEquity0.78%Apollo Hospitals Enterprise LtdHealthcareEquity0.78%Tata Motors LtdConsumer DiscretionaryEquity0.76%SBI Life Insurance Company LtdFinancialEquity0.76%Dr. Reddy's Laboratories LtdHealthcareEquity0.73%Cipla LtdHealthcareEquity0.73%Jio Financial Services LimitedFinancialEquity0.72%Tata Consumer Products LtdConsumer StaplesEquity0.71%Max Healthcare Institute LtdHealthcareEquity0.66%HDFC Life Insurance Co LtdFinancialEquity0.59%Wipro LtdTechnologyEquity0.54%RepoUnspecifiedRepo0.13%Net Current AssetsUnspecifiedNet Current Assets0.07%See All
+Minimum investmentsMin. for 1st investment₹100Min. for 2nd investment₹100Min. for SIP₹100
+Understand termsAnnualised returnsAverage of the yearly returns of a mutual fund over a given period.Absolute returnsThe total return of a mutual fund over a given period.Returns and rankingsAnnualised returnsAbsolute returnsName3Y5Y10YAllFund returns+8.9%+10.1%+12.3%+12.0%Category average (Equity Large Cap)+15.1%+15.0%+13.2%--Rank (Equity Large Cap)674623--
+Understand termsExpense ratioA fee payable to a mutual fund house for managing your mutual fund investments.     It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.TaxA percentage of your capital gains payable to the government upon exiting your mutual fund investments.     Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund.Exit loadA fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment.Stamp dutyA form of tax payable for the purchase or sale of an asset or security.Exit Load22 Sep 2017Exit load of 0.25% if redeemed within 3 days18 Dec 2013Exit load of 1% if redeemed within 3 months01 Jan 2013Exit load of 1.00% if units are redeemed/ switched out within 30 days from the date of allotment.Exit load, stamp duty and taxExit loadExit load of 0.25% if redeemed within 3 daysStamp duty on investment:0.005% (from July 1st, 2020)from July 1st 2020Tax implicationIf you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.Check past data
+Compare similar fundsName1Y3YFund Size(Cr)Invesco India Largecap Fund Direct Growth+2.99%+15.33%1,748.94WhiteOak Capital Large Cap Fund Direct Growth+0.97%+14.96%1,170.63Nippon India Large Cap Fund Direct Growth-0.16%+14.21%51,660.30ICICI Prudential Large Cap Fund Direct Growth-1.30%+13.91%76,296.98DSP Large Cap Fund Direct Growth-2.35%+13.77%7,175.42Compare
+Fund managementAAArun AgarwalAug 2020- PresentView detailsEducationMr. Agarwal is a B.Com. and Chartered AccountantExperiencePrior to joining HDFC Asset Management Company Limited, he has worked with SBI Funds Management Pvt. Ltd., ICICI Bank Limited, UTI Asset Management Pvt. Ltd.Also manages these schemesHDFC Gold ETF Fund of Fund Direct Plan GrowthHDFC Balanced Advantage Fund Direct GrowthHDFC NIFTY 50 Index Fund Direct GrowthHDFC BSE Sensex Index Fund Direct GrowthHDFC Equity Savings Direct Plan GrowthHDFC Multi Asset Allocation Fund Direct GrowthHDFC Arbitrage Fund Direct GrowthHDFC Retirement Savings Fund Equity Plan Direct GrowthHDFC Retirement Savings Fund Hybrid Equity Plan Direct GrowthHDFC Retirement Savings Fund Hybrid Debt Plan Direct GrowthHDFC NIFTY 50 ETF IDCWHDFC NIFTY50 Equal Weight Index Fund Direct GrowthHDFC Developed World Overseas Equity Passive FoF Direct GrowthHDFC NIFTY Next 50 Index Fund Direct GrowthHDFC NIFTY 100 Index Fund Direct GrowthHDFC NIFTY 100 Equal Weight Index Fund Direct GrowthHDFC Silver ETF FoF Direct GrowthHDFC NIFTY Midcap 150 Index Fund Direct GrowthHDFC Nifty Smallcap 250 Index Fund Direct GrowthHDFC BSE 500 Index Fund Direct GrowthHDFC BSE Sensex ETFHDFC NIFTY200 Momentum 30 Index Fund Direct GrowthHDFC NIFTY Realty Index Fund Direct GrowthHDFC NIFTY100 Low Volatility 30 Index Fund Direct GrowthHDFC Nifty500 Multicap 50:25:25 Index Fund Direct GrowthHDFC Nifty LargeMidcap 250 Index Fund Direct GrowthHDFC Nifty India Digital Index Fund Direct GrowthHDFC Nifty100 Quality 30 Index Fund Direct GrowthHDFC Nifty Top 20 Equal Weight Index Fund Direct GrowthHDFC BSE India Sector Leaders Index Fund Direct GrowthHDFC Nifty India Consumption Index Fund Direct GrowthHDFC Nifty Auto Index Fund Direct GrowthNMNandita MenezesMar 2025- PresentView detailsEducationCA (ICAI, INDIA), B.Com (University of Mumbai)ExperiencePrior to joining HDFC AMC, she was associated with S.V. Ghatalia & Associates LLP.Also manages these schemesHDFC Gold ETF Fund of Fund Direct Plan GrowthHDFC Balanced Advantage Fund Direct GrowthHDFC NIFTY 50 Index Fund Direct GrowthHDFC BSE Sensex Index Fund Direct GrowthHDFC Equity Savings Direct Plan GrowthHDFC Multi Asset Allocation Fund Direct GrowthHDFC Arbitrage Fund Direct GrowthHDFC Retirement Savings Fund Equity Plan Direct GrowthHDFC Retirement Savings Fund Hybrid Equity Plan Direct GrowthHDFC Retirement Savings Fund Hybrid Debt Plan Direct GrowthHDFC NIFTY50 Equal Weight Index Fund Direct GrowthHDFC Developed World Overseas Equity Passive FoF Direct GrowthHDFC NIFTY Next 50 Index Fund Direct GrowthHDFC NIFTY 100 Index Fund Direct GrowthHDFC NIFTY 100 Equal Weight Index Fund Direct GrowthHDFC Silver ETF FoF Direct GrowthHDFC NIFTY Midcap 150 Index Fund Direct GrowthHDFC Nifty Smallcap 250 Index Fund Direct GrowthHDFC BSE 500 Index Fund Direct GrowthHDFC NIFTY200 Momentum 30 Index Fund Direct GrowthHDFC NIFTY Realty Index Fund Direct GrowthHDFC NIFTY100 Low Volatility 30 Index Fund Direct GrowthHDFC Nifty500 Multicap 50:25:25 Index Fund Direct GrowthHDFC Nifty LargeMidcap 250 Index Fund Direct GrowthHDFC Nifty India Digital Index Fund Direct GrowthHDFC Nifty100 Quality 30 Index Fund Direct GrowthHDFC Nifty Top 20 Equal Weight Index Fund Direct GrowthHDFC BSE India Sector Leaders Index Fund Direct GrowthHDFC Nifty India Consumption Index Fund Direct GrowthHDFC Nifty Auto Index Fund Direct Growth
+AboutHDFC NIFTY 50 Index Fund Direct GrowthHDFC NIFTY 50 Index Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC NIFTY 50 Index Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,238 Cr and the Latest NAV as of 03 Jul 2026 is ₹237.03.
+The HDFC NIFTY 50 Index Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 0.25% if redeemed within 3 days;Investment ObjectiveThe Scheme seeks to generate returns that are commensurate with the performance of the NIFTY 50 Index, subject to tracking errors.Fund benchmarkNIFTY 50 Total Return IndexScheme Information Document(SID)
+Fund houseHDFC Mutual FundRank (total assets)#2 in IndiaTotal AUM₹9,34,237.77 CrDate of Incorporation10 Dec 1999Phone022 – 66316333E-mail[email protected]Websitehttp://www.hdfcfund.comLaunch Date10 Dec 1999Address"HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020Custodian--Registrar & Transfer AgentCamsEmail[email protected]Websitewww.camsonline.comAddress7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
+
+--- Block 6 ---
+Minimum investments
+Min. for 1st investment₹100Min. for 2nd investment₹100Min. for SIP₹100
+
+--- Block 7 ---
+Understand terms
+Annualised returnsAverage of the yearly returns of a mutual fund over a given period.Absolute returnsThe total return of a mutual fund over a given period.
+
+--- Block 8 ---
+Exit load
+Exit load of 0.25% if redeemed within 3 days
+
+--- Block 9 ---
+Stamp duty on investment:0.005% (from July 1st, 2020)
+from July 1st 2020
+
+--- Block 10 ---
+Tax implication
+If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+
+--- Block 11 ---
+Compare similar funds
+Name1Y3YFund Size(Cr)Invesco India Largecap Fund Direct Growth+2.99%+15.33%1,748.94WhiteOak Capital Large Cap Fund Direct Growth+0.97%+14.96%1,170.63Nippon India Large Cap Fund Direct Growth-0.16%+14.21%51,660.30ICICI Prudential Large Cap Fund Direct Growth-1.30%+13.91%76,296.98DSP Large Cap Fund Direct Growth-2.35%+13.77%7,175.42Compare
+
+--- Block 12 ---
+Fund management
+AAArun AgarwalAug 2020- PresentView detailsEducationMr. Agarwal is a B.Com. and Chartered AccountantExperiencePrior to joining HDFC Asset Management Company Limited, he has worked with SBI Funds Management Pvt. Ltd., ICICI Bank Limited, UTI Asset Management Pvt. Ltd.Also manages these schemesHDFC Gold ETF Fund of Fund Direct Plan GrowthHDFC Balanced Advantage Fund Direct GrowthHDFC NIFTY 50 Index Fund Direct GrowthHDFC BSE Sensex Index Fund Direct GrowthHDFC Equity Savings Direct Plan GrowthHDFC Multi Asset Allocation Fund Direct GrowthHDFC Arbitrage Fund Direct GrowthHDFC Retirement Savings Fund Equity Plan Direct GrowthHDFC Retirement Savings Fund Hybrid Equity Plan Direct GrowthHDFC Retirement Savings Fund Hybrid Debt Plan Direct GrowthHDFC NIFTY 50 ETF IDCWHDFC NIFTY50 Equal Weight Index Fund Direct GrowthHDFC Developed World Overseas Equity Passive FoF Direct GrowthHDFC NIFTY Next 50 Index Fund Direct GrowthHDFC NIFTY 100 Index Fund Direct GrowthHDFC NIFTY 100 Equal Weight Index Fund Direct GrowthHDFC Silver ETF FoF Direct GrowthHDFC NIFTY Midcap 150 Index Fund Direct GrowthHDFC Nifty Smallcap 250 Index Fund Direct GrowthHDFC BSE 500 Index Fund Direct GrowthHDFC BSE Sensex ETFHDFC NIFTY200 Momentum 30 Index Fund Direct GrowthHDFC NIFTY Realty Index Fund Direct GrowthHDFC NIFTY100 Low Volatility 30 Index Fund Direct GrowthHDFC Nifty500 Multicap 50:25:25 Index Fund Direct GrowthHDFC Nifty LargeMidcap 250 Index Fund Direct GrowthHDFC Nifty India Digital Index Fund Direct GrowthHDFC Nifty100 Quality 30 Index Fund Direct GrowthHDFC Nifty Top 20 Equal Weight Index Fund Direct GrowthHDFC BSE India Sector Leaders Index Fund Direct GrowthHDFC Nifty India Consumption Index Fund Direct GrowthHDFC Nifty Auto Index Fund Direct GrowthNMNandita MenezesMar 2025- PresentView detailsEducationCA (ICAI, INDIA), B.Com (University of Mumbai)ExperiencePrior to joining HDFC AMC, she was associated with S.V. Ghatalia & Associates LLP.Also manages these schemesHDFC Gold ETF Fund of Fund Direct Plan GrowthHDFC Balanced Advantage Fund Direct GrowthHDFC NIFTY 50 Index Fund Direct GrowthHDFC BSE Sensex Index Fund Direct GrowthHDFC Equity Savings Direct Plan GrowthHDFC Multi Asset Allocation Fund Direct GrowthHDFC Arbitrage Fund Direct GrowthHDFC Retirement Savings Fund Equity Plan Direct GrowthHDFC Retirement Savings Fund Hybrid Equity Plan Direct GrowthHDFC Retirement Savings Fund Hybrid Debt Plan Direct GrowthHDFC NIFTY50 Equal Weight Index Fund Direct GrowthHDFC Developed World Overseas Equity Passive FoF Direct GrowthHDFC NIFTY Next 50 Index Fund Direct GrowthHDFC NIFTY 100 Index Fund Direct GrowthHDFC NIFTY 100 Equal Weight Index Fund Direct GrowthHDFC Silver ETF FoF Direct GrowthHDFC NIFTY Midcap 150 Index Fund Direct GrowthHDFC Nifty Smallcap 250 Index Fund Direct GrowthHDFC BSE 500 Index Fund Direct GrowthHDFC NIFTY200 Momentum 30 Index Fund Direct GrowthHDFC NIFTY Realty Index Fund Direct GrowthHDFC NIFTY100 Low Volatility 30 Index Fund Direct GrowthHDFC Nifty500 Multicap 50:25:25 Index Fund Direct GrowthHDFC Nifty LargeMidcap 250 Index Fund Direct GrowthHDFC Nifty India Digital Index Fund Direct GrowthHDFC Nifty100 Quality 30 Index Fund Direct GrowthHDFC Nifty Top 20 Equal Weight Index Fund Direct GrowthHDFC BSE India Sector Leaders Index Fund Direct GrowthHDFC Nifty India Consumption Index Fund Direct GrowthHDFC Nifty Auto Index Fund Direct Growth
+
+--- Block 13 ---
+Investment Objective
+The Scheme seeks to generate returns that are commensurate with the performance of the NIFTY 50 Index, subject to tracking errors.
+
+--- Block 14 ---
+Table Data:
+Over the past | Total investment | Would've become | Historic returns | Returns
+1 year | ₹60,000 | ₹57,310 |  | -4.48%
+3 years | ₹1,80,000 | ₹1,87,531 |  | +4.18%
+5 years | ₹3,00,000 | ₹3,57,744 |  | +19.25%
+10 years | ₹6,00,000 | ₹10,75,753 |  | +79.29%
+
+--- Block 15 ---
+Table Data:
+Name | Sector | Instruments | Assets
+HDFC Bank Ltd | Financial | Equity | 10.54%
+ICICI Bank Ltd | Financial | Equity | 8.31%
+Reliance Industries Ltd | Energy & Utilities | Equity | 8.25%
+Bharti Airtel Ltd | Technology | Equity | 5.19%
+Larsen & Toubro Ltd | Industrials | Equity | 4.43%
+Infosys Ltd | Technology | Equity | 3.76%
+State Bank of India | Financial | Equity | 3.70%
+Axis Bank Ltd | Financial | Equity | 3.41%
+Kotak Mahindra Bank Ltd | Financial | Equity | 2.62%
+ITC Ltd | Consumer Staples | Equity | 2.56%
+Mahindra & Mahindra Ltd | Consumer Discretionary | Equity | 2.52%
+Bajaj Finance Ltd | Financial | Equity | 2.25%
+Tata Consultancy Services Ltd | Technology | Equity | 2.13%
+Hindustan Unilever Ltd | Consumer Staples | Equity | 1.77%
+Sun Pharmaceutical Industries Ltd | Healthcare | Equity | 1.76%
+NTPC Ltd | Energy & Utilities | Equity | 1.70%
+Zomato Ltd | Technology | Equity | 1.67%
+Tata Steel Ltd | Materials | Equity | 1.59%
+Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 1.59%
+Titan Company Ltd | Consumer Discretionary | Equity | 1.55%
+Hindalco Industries Ltd | Materials | Equity | 1.51%
+Bharat Electronics Ltd | Industrials | Equity | 1.36%
+Ultratech Cement Ltd | Materials | Equity | 1.26%
+Adani Ports and Special Economic Zone Ltd | Industrials | Equity | 1.23%
+Shriram Transport Finance Company Ltd | Financial | Equity | 1.23%
+Power Grid Corporation of India Ltd | Energy & Utilities | Equity | 1.22%
+HCL Technologies Ltd | Technology | Equity | 1.16%
+Asian Paints Ltd | Materials | Equity | 1.12%
+JSW Steel Ltd | Materials | Equity | 1.11%
+Grasim Industries Ltd | Materials | Equity | 1.10%
+Bajaj Auto Ltd | Consumer Discretionary | Equity | 1.07%
+Coal India Ltd | Materials | Equity | 0.96%
+Oil & Natural Gas Corporation Ltd | Energy & Utilities | Equity | 0.95%
+Bajaj Finserv Ltd | Financial | Equity | 0.95%
+Nestle India Ltd | Consumer Staples | Equity | 0.94%
+Interglobe Aviation Ltd | Industrials | Equity | 0.92%
+Eicher Motors Ltd | Consumer Discretionary | Equity | 0.91%
+Trent Ltd | Consumer Discretionary | Equity | 0.87%
+Tech Mahindra Ltd | Technology | Equity | 0.87%
+Adani Enterprises Ltd | Materials | Equity | 0.78%
+Apollo Hospitals Enterprise Ltd | Healthcare | Equity | 0.78%
+Tata Motors Ltd | Consumer Discretionary | Equity | 0.76%
+SBI Life Insurance Company Ltd | Financial | Equity | 0.76%
+Dr. Reddy's Laboratories Ltd | Healthcare | Equity | 0.73%
+Cipla Ltd | Healthcare | Equity | 0.73%
+Jio Financial Services Limited | Financial | Equity | 0.72%
+Tata Consumer Products Ltd | Consumer Staples | Equity | 0.71%
+Max Healthcare Institute Ltd | Healthcare | Equity | 0.66%
+HDFC Life Insurance Co Ltd | Financial | Equity | 0.59%
+Wipro Ltd | Technology | Equity | 0.54%
+Repo | Unspecified | Repo | 0.13%
+Net Current Assets | Unspecified | Net Current Assets | 0.07%
+
+--- Block 16 ---
+Table Data:
+Name | 3Y | 5Y | 10Y | All
+Fund returns | +8.9% | +10.1% | +12.3% | +12.0%
+Category average (Equity Large Cap) | +15.1% | +15.0% | +13.2% | --
+Rank (Equity Large Cap) | 67 | 46 | 23 | --
+
+--- Block 17 ---
+Table Data:
+ | Name | 1Y | 3Y | Fund Size(Cr)
+ | Invesco India Largecap Fund Direct Growth | +2.99% | +15.33% | 1,748.94
+ | WhiteOak Capital Large Cap Fund Direct Growth | +0.97% | +14.96% | 1,170.63
+ | Nippon India Large Cap Fund Direct Growth | -0.16% | +14.21% | 51,660.30
+ | ICICI Prudential Large Cap Fund Direct Growth | -1.30% | +13.91% | 76,296.98
+ | DSP Large Cap Fund Direct Growth | -2.35% | +13.77% | 7,175.42
+Compare
+
