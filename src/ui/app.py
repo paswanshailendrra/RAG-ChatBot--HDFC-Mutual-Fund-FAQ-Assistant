@@ -6,6 +6,15 @@ for the HDFC Mutual Fund FAQ Assistant.
 """
 import os
 import sys
+
+# Streamlit Cloud uses an older SQLite version which crashes ChromaDB. 
+# This safely hot-swaps it with pysqlite3-binary if running on the cloud.
+try:
+    __import__('pysqlite3')
+    sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+except ImportError:
+    pass
+
 import streamlit as st
 
 # Suppress HuggingFace warnings
