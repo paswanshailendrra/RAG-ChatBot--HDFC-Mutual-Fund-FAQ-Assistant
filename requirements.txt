@@ -1,3 +1,7 @@
+# Force CPU-only PyTorch to prevent 1GB RAM OOM freezes on Streamlit Cloud
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+
 # Core RAG Framework
 langchain>=0.2.0
 langchain-community>=0.2.0
