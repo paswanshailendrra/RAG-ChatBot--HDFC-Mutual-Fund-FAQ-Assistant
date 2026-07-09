@@ -29,20 +29,20 @@ st.set_page_config(
     layout="centered"
 )
 
-# ==========================================
-# API Key Configuration Sidebar
-# ==========================================
-st.sidebar.title("⚙️ Configuration")
-st.sidebar.markdown("Enter your Groq API Key below to activate the chatbot.")
-api_key_input = st.sidebar.text_input("Groq API Key", type="password", placeholder="gsk_...")
-
-# Determine the final API key
+# First, try to get the API key from environment or secrets
 system_key = os.getenv("GROQ_API_KEY")
 try:
     if not system_key:
         system_key = st.secrets.get("GROQ_API_KEY")
 except Exception:
     pass
+
+# If the key is NOT in the system, show the sidebar to prompt the user
+api_key_input = None
+if not system_key:
+    st.sidebar.title("⚙️ Configuration")
+    st.sidebar.markdown("Enter your Groq API Key below to activate the chatbot.")
+    api_key_input = st.sidebar.text_input("Groq API Key", type="password", placeholder="gsk_...")
 
 final_api_key = api_key_input.strip() if api_key_input else system_key
 
