@@ -67,10 +67,11 @@ The goal of this project was to build an automated, end-to-end Retrieval-Augment
   5. If new data is found, it automatically commits the new `chroma.sqlite3` file and pushes it to the `main` branch.
 
 ### Phase 6: Cloud Deployment Troubleshooting
-Deploying to Streamlit Community Cloud required solving three massive technical hurdles:
+Deploying to Streamlit Community Cloud required solving four massive technical hurdles:
 1. **PyTorch OOM Freeze:** The default PyTorch library is 800MB. Loading it maxed out Streamlit's 1GB RAM limit, freezing the app for 10+ minutes. We fixed this by forcing `pip` to install the CPU-only version in `requirements.txt`, dropping the size to 150MB.
-2. **SQLite Incompatibility:** Older Linux containers crashed ChromaDB. We tried the `pysqlite3-binary` hot-swap, but the specific wheel was missing for Streamlit's OS, causing fatal pip crashes. We removed it entirely.
-3. **Langchain Pip Corruption:** Streamlit's installer corrupted the `langchain` package installation. We bumped version numbers to invalidate the cache and simplified the codebase to remove toxic sub-dependencies (`langchain.retrievers`).
+2. **SQLite Incompatibility:** Older Linux containers crashed ChromaDB. We tried the `pysqlite3-binary` hot-swap, but the specific wheel was missing for Streamlit's OS, causing fatal pip crashes. We removed it entirely and relied on native SQLite.
+3. **Langchain Pip Corruption:** Streamlit's installer corrupted the `langchain` package installation when encountering complex sub-modules like `MultiQueryRetriever`. We bypassed this completely by falling back to the native `base_retriever` (with `TOP_K=6`) and completely removing the toxic `langchain.retrievers` package from our codebase.
+4. **API Key Sleep State Wipe:** Streamlit puts idle apps to sleep. When woken, our temporary sidebar API key was wiped, requiring the user to re-enter it. We permanently fixed this by instructing the user to bake the key into Streamlit Cloud's "Secrets" dashboard (`st.secrets`) and updated the UI code to magically hide the sidebar when the key is detected, making the app publicly shareable without friction.
 
 ---
 

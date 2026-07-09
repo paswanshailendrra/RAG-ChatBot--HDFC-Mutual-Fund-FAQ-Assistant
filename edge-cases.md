@@ -50,6 +50,8 @@ This document catalogs all edge cases and corner scenarios that the Mutual Fund 
 | 4.3 | **Query matches a scheme not in our corpus (e.g., HDFC Balanced Advantage Fund)** | Politely inform the user that this scheme is outside the scope of the assistant and list the 5 supported schemes. |
 | 4.4 | **User asks about a generic mutual fund concept (e.g., "What is SIP?")** | If the corpus contains this info, answer from context. If not, politely refuse and redirect to an educational resource (e.g., AMFI website). |
 | 4.5 | **User asks a multi-part query about multiple funds (e.g., "mid and large cap") where context only covers one** | Ensure `TOP_K` is high enough to capture diverse chunks, and enforce via system prompt that the LLM answers for the available data while explicitly stating it lacks data for the missing parts. |
+| 4.6 | **Complex Retriever (e.g., MultiQueryRetriever) throws ModuleNotFoundError on Cloud deployments** | Cloud environments (like Streamlit Cloud) often fail on dynamic function-scoped imports of massive frameworks. **Mitigation:** Fall back to native `base_retriever` with enriched chunk metadata (like appending "(Large Cap)") and higher `TOP_K` rather than relying on complex third-party abstraction layers. |
+| 4.7 | **API Key becomes invalid after app wakes from sleep (Streamlit Cloud)** | Temporary sidebar API inputs are wiped when containers sleep. **Mitigation:** Securely bake the API key into the Streamlit Cloud "Secrets" dashboard (`st.secrets`) and programmatically hide the UI sidebar when the secret is detected to create a seamless public experience. |
 
 ---
 
