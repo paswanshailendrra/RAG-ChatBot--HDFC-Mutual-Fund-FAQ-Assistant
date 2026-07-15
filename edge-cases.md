@@ -117,6 +117,7 @@ This document catalogs all edge cases and corner scenarios that the Mutual Fund 
 | 9.2 | **Git Repository Bloat (ChromaDB)** | Committing binary database files (`chroma.sqlite3`) every single day will rapidly bloat the `.git` history size, even if the scraped text hasn't changed, because SQLite files regenerate internal timestamps/UUIDs. |
 | 9.3 | **HuggingFace Model Download Failures** | The GitHub runner downloads the `BAAI/bge-small-en-v1.5` model from HuggingFace on every run. If HF is down or rate-limiting, the run fails. (Mitigation: implement directory caching for `~/.cache/huggingface` in the workflow). |
 | 9.4 | **Empty Commits** | If no data has changed on the Groww website, the action might still push a commit because the newly generated ChromaDB binary has a different checksum. (Mitigation: implement a diff-check on `chunks.json` before building the vector database). |
+| 9.5 | **Cloudflare Serves Stale Cached HTML to Bots** | Even if the WAF doesn't block the request, it may serve a stale cached version of the HTML to datacenter IPs (like GitHub Actions) to save bandwidth, preventing the DB from ever updating. (Mitigation: Use `cloudscraper` to mimic browser TLS fingerprints and append a dynamic cache-busting timestamp `?cb=<time>` to the URL to force the CDN edge server to fetch fresh data). |
 
 ---
 
