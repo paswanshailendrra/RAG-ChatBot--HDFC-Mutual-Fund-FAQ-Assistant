@@ -8,7 +8,10 @@ It saves full rendered HTML for each scheme page locally.
 from typing import Optional, List
 import os
 import time
+import os
+import time
 import requests
+import cloudscraper
 from datetime import datetime
 from bs4 import BeautifulSoup
 
@@ -70,7 +73,16 @@ def fetch_single_url(url: str, scheme_name: str, retries: int = 3, delay: float 
     for attempt in range(1, retries + 1):
         try:
             print(f"  [Attempt {attempt}/{retries}] Fetching: {scheme_name}...")
-            response = requests.get(url, headers=_get_headers(), timeout=30)
+            
+            # Use cloudscraper to bypass Cloudflare WAF on GitHub Actions
+            # We don't pass custom headers because cloudscraper handles TLS fingerprinting natively
+            scraper = cloudscraper.create_scraper(browser={'browser': 'chrome', 'platform': 'windows', 'desktop': True})
+            
+            # Append cache-busting timestamp to force Cloudflare to serve fresh HTML with the latest NAV
+            cache_buster = f"?cb={int(time.time())}"
+            target_url = url + cache_buster
+            
+            response = scraper.get(target_url, timeout=30)
             result["status_code"] = response.status_code
 
             if response.status_code == 200:
