@@ -1,5 +1,7 @@
 # 📈 HDFC Mutual Fund FAQ Assistant (RAG Chatbot)
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_it_now!-success?style=for-the-badge&logo=streamlit)](https://rag-chatbot--hdfc-mutual-fund-faq-assistant-2s9rhd2bwcjd99sdvc.streamlit.app/)
+
 An intelligent, fully-automated Retrieval-Augmented Generation (RAG) chatbot designed to answer factual questions about HDFC Mutual Funds. It scrapes real-time NAV and fund data from Groww, builds a local vector database, and uses the ultra-fast Groq API (LLaMA-3.3-70b) to provide precise, 3-sentence answers with citations.
 
 ---
